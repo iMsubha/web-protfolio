@@ -48,6 +48,7 @@ h2{
 }
 .half-width img{
     width: 100%;
+    padding-top: 50px;
 }
 .dream-area{
     background-image: url("./images/dream-bg.png");
